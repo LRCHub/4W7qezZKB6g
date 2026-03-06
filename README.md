@@ -1,0 +1,126 @@
+# NOWZ – AMMO（feat. YRD Leo）
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+She's mine 勝利の女神よ
+針の 穴通す 赤い糸
+こんな風にやるさ like this
+音楽に賭けてIbelieve
+dada
+口だけじゃ終わらない my party
+後ろ向きなstyleに無関心
+追いかけるチーターの本能に
+火をつけた超本人
+止まらないさ
+まだまだ we don't stop (stop)
+荒ぶるとそう bring it on bring it on ha
+キリキリマイ 君ぐらっぐらの knees weak
+持ってけ 持ってけ my style is this
+Now everybody wants the best of me
+Sayin' what they want
+Nah nah nah
+Hold up wait
+Turning all the heat on
+Imma be
+Breaking through the void loud
+Just watch your world go upside down
+Attention
+Hands up hands up hands up
+Alright
+Cuz ya voices give me ammo
+Hands up hands up hands up
+Alright
+Cuz ya voices give me ammo
+Gotta scream loud
+Yea
+You a big part
+Yea
+Show me big love
+Yea
+You the real cause
+Yea
+It's not a mistake
+I made it this far
+You know that everyone's voice be my ammo
+Who yea it's me with the super clean fit up
+Watch how you move cause you should know better
+慌てさせるほどの韻とflow
+上を向け 上を向け 上を向け
+Go down and check we are the best
+Nobody else yea
+Better believe anything else get ya facts
+checked
+I got oodles and oodles and there's a few of my
+screws lose
+Run or I'll lose you I'm flying high like
+balloons do
+行動力一つで
+崩壊させるぜ常識
+I don't think they heard me so
+Turn it up right now
+Now everybody wants the best of me
+Sayin' what they want
+Nah nah nah
+Hold up wait
+Turning all the heat on
+Imma be
+Breaking through the void loud
+Just watch your world go upside down
+Attention
+Hands up hands up hands up
+Alright
+Cuz ya voices give me ammo
+Hands up hands up hands up
+Alright
+Cuz ya voices give me ammo
+Gotta scream loud
+Yea
+You a big part
+Yea
+Show me big love
+Yea
+You the real cause
+Yea
+It's not a mistake
+I made it this far
+You know that everyone's voice be my ammo
+Keep it
+Wilding
+Keep on
+Shinning
+Leave me
+Blinded
+Blinded
+Ooh yeah
+This is what I need this what I need yea
+Never gonna leave never gonna leave ya
+Number one team number one team yea
+You better pay attention
+Hands up hands up hands up
+Alright
+Cuz ya voices give me ammo
+Hands up hands up hands up
+Alright
+Cuz ya voices give me ammo
+Gotta Scream loud
+Yea
+You a big part
+Yea
+Show me big love
+Yea
+You the real cause
+Yea
+It's not a mistake
+I made it this far
+You know that everyone's voice be my ammo
+Aaah
+ah ah ah ah ah ah ah ammo
+Aaah
+ah ah ah ah ah ah ah ammo
+Aaah
+ah ah ah ah ammo
+It's not a mistake
+I made it this far
+You know that everyone's voice be my ammo
+```
