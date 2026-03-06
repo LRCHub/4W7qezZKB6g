@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "AMMO（feat. YRD Leo）",
+  "base_artist": "NOWZ",
+  "createdAt": "2026-03-06T12:07:19.761616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still Got The Ammo (feat. Main Flow, Godilla, El Da Sensei & J. Sands)",
+      "artist": "Snowgoons",
+      "has_synced": true,
+      "path": "select/01_Still_Got_The_Ammo_(feat._Main_Flow,_Godilla,_El_Da_Sensei_&_J._Sands)_Snowgoons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ammo' (feat. Rocco Hunt, Clementino)",
+      "artist": "Achille Lauro",
+      "has_synced": true,
+      "path": "select/02_Ammo'_(feat._Rocco_Hunt,_Clementino)_Achille_Lauro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AMMÒ (feat. Mikush)",
+      "artist": "Don Joe",
+      "has_synced": true,
+      "path": "select/03_AMMÒ_(feat._Mikush)_Don_Joe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ammo' (feat. Knfuzed)",
+      "artist": "Thelonious B.",
+      "has_synced": true,
+      "path": "select/04_Ammo'_(feat._Knfuzed)_Thelonious_B..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mo’ Ammo (feat. Murs, Tech N9ne, and Rittz)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/05_Mo’_Ammo_(feat._Murs,_Tech_N9ne,_and_Rittz)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu",
+      "has_synced": false,
+      "path": "select/06_Ammo_(feat._Sultaan)_Jordan_Sandhu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu, Yeah Proof, Rav Hanjra",
+      "has_synced": true,
+      "path": "select/07_Ammo_(feat._Sultaan)_Jordan_Sandhu,_Yeah_Proof,_Rav_Hanjra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ammo' (feat. Rocco Hunt & Clementino)",
+      "artist": "Achille Lauro",
+      "has_synced": true,
+      "path": "select/08_Ammo'_(feat._Rocco_Hunt_&_Clementino)_Achille_Lauro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu • Yeah Proof • Rav Hanjra",
+      "has_synced": true,
+      "path": "select/09_Ammo_(feat._Sultaan)_Jordan_Sandhu_•_Yeah_Proof_•_Rav_Hanjra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu, Yeah Proof, Rav Hanjra, Sultaan",
+      "has_synced": true,
+      "path": "select/10_Ammo_(feat._Sultaan)_Jordan_Sandhu,_Yeah_Proof,_Rav_Hanjra,_Sultaan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mo’ Ammo (Feat. Murs & Rittz)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/11_Mo’_Ammo_(Feat._Murs_&_Rittz)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu",
+      "has_synced": true,
+      "path": "select/12_Ammo_(feat._Sultaan)_Jordan_Sandhu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu • Yeah Proof • Rav Hanjra",
+      "has_synced": true,
+      "path": "select/13_Ammo_(feat._Sultaan)_Jordan_Sandhu_•_Yeah_Proof_•_Rav_Hanjra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan)",
+      "artist": "Jordan Sandhu, Yeah Proof, Rav Hanjra",
+      "has_synced": true,
+      "path": "select/14_Ammo_(feat._Sultaan)_Jordan_Sandhu,_Yeah_Proof,_Rav_Hanjra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mo' Ammo (feat. Tech N9ne & Rittz)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/15_Mo'_Ammo_(feat._Tech_N9ne_&_Rittz)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ammo' (feat. Rocco Hunt, Clementino)",
+      "artist": "Boss Doms",
+      "has_synced": true,
+      "path": "select/16_Ammo'_(feat._Rocco_Hunt,_Clementino)_Boss_Doms.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ammo (feat. Sultaan) (feat. Sultaan)",
+      "artist": "Jordan Sandhu",
+      "has_synced": true,
+      "path": "select/17_Ammo_(feat._Sultaan)_(feat._Sultaan)_Jordan_Sandhu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AMMO (feat. YRD Leo)",
+      "artist": "NOWZ",
+      "has_synced": false,
+      "path": "select/pl_01_AMMO_(feat._YRD_Leo)_NOWZ.txt"
+    }
+  ]
+}
